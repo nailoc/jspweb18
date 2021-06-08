@@ -1,0 +1,33 @@
+body {
+	background-color: #efefef;
+}
+div.wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+div.title h3 {
+	text-align: center;
+}
+div.title p {
+	background-color: #cccccc;
+	text-align: center;
+	padding: 10px;
+}
+div.galcontent {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+div.desc p {
+	font-size: 14px;
+}
+div.galcontrol {
+	width: 100%;
+	overflow: auto;
+}
+div.left{
+	float: left;
+}
+div.right{
+	float: right;
+}
